@@ -1,4 +1,4 @@
-# Practice react by Building Tetris
+# Practice react by Building TicTacToe
 
 <img width="1731" alt="Screenshot 2023-12-24 at 9 59 21 PM" src="https://github.com/robtai29/Tetris_ReactApp/assets/61960571/5cedc4dc-196b-47fd-ad53-e789325d4255">
 
